@@ -4,10 +4,11 @@
     font-family: "Poppins", sans-serif;
 }
 .main_box{
-    background: url(photo.jpg);
+background: url(photo.jpg);
 height: 100vh;
 background-size: cover;
 }
+
 .btn_one{
     color: white;
     font-size: 30px;
@@ -59,7 +60,7 @@ top: 80px;
 
 }
 .sidebar_menu .menu li {
-    margin-top: 6px;
+    margin-top: 8px;
     padding: 14px 20px;
 }
 .sidebar_menu .menu i,a {
@@ -74,7 +75,7 @@ top: 80px;
 
 position: absolute;
 left: 25%;
-bottom: 45px;
+bottom: 4px;
 }
 .sidebar_menu .social_media i{
     color: white;
@@ -111,7 +112,3 @@ bottom: 45px;
 #check:checked ~ .sidebar_menu.btn_two i{
     opacity: 1;
 }
-
-
-
-
